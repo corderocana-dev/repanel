@@ -41,7 +41,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Paneles Sándwich Segunda Mano | Ahorra con Calidad | Repanel')}</title>
+        <title>{t('Paneles Sándwich Segunda Mano | Ahorra con Calidad | RePanel')}</title>
         <meta name="description" content={t('Compra paneles sándwich de segunda mano en excelente estado. Alta calidad, precios reducidos y atención personalizada.')} />
         <meta name="keywords" content="paneles sandwich segunda mano, comprar panel sandwich, panel sandwich barato, paneles usados, repanel" />
         <link rel="canonical" href="http://localhost:5173/" />

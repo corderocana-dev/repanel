@@ -64,7 +64,7 @@ const FAQ = () => {
     return (
         <>
             <Helmet>
-                <title>{t('Preguntas Frecuentes | Repanel')}</title>
+                <title>{t('Preguntas Frecuentes | RePanel')}</title>
                 <meta name="description" content={t('Resuelve tus dudas sobre nuestros paneles sándwich de segunda mano, garantías, proceso de compra y más.')}/>
                 <meta name="keywords" content="preguntas frecuentes, FAQ, paneles sandwich segunda mano, garantías, cómo comprar, ver paneles, repanel"/>
                 <link rel="canonical" href="http://localhost:5173/faq" />

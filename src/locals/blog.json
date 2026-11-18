@@ -7,7 +7,7 @@
     "fecha": "2026-11-10",
     "minutos": 6,
     "imagen": "/panel_cubierta.png",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": true,
     "contenido": [
       { "tipo": "p", "texto": "Elegir bien el panel sándwich es la diferencia entre una obra que funciona durante décadas y una que da problemas al primer invierno. La buena noticia es que no hace falta ser ingeniero: basta con tener claras tres cosas antes de pedir presupuesto." },
@@ -34,7 +34,7 @@
     "fecha": "2026-10-28",
     "minutos": 5,
     "imagen": "/panel_teja.jpg",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": false,
     "contenido": [
       { "tipo": "p", "texto": "El panel de segunda mano procede de sobrantes de obra, roturas de stock o pequeños desperfectos de fábrica. Funcionalmente aísla igual, pero su precio es mucho menor. ¿Significa eso que siempre es la mejor opción? No siempre, y te contamos por qué." },
@@ -58,7 +58,7 @@
     "fecha": "2026-10-15",
     "minutos": 7,
     "imagen": "/panel_frioI.jpg",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": false,
     "contenido": [
       { "tipo": "p", "texto": "Una cámara frigorífica vive o muere por su aislamiento. Cualquier fuga de frío se traduce en un compresor trabajando de más y en una factura eléctrica más alta. Por eso el panel de frío industrial es distinto al de una nave convencional." },
@@ -81,7 +81,7 @@
     "fecha": "2026-09-30",
     "minutos": 6,
     "imagen": "/panel_lanaroca.jpg",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": false,
     "contenido": [
       { "tipo": "p", "texto": "El aislamiento interior es lo que convierte dos chapas en un panel sándwich. Los dos materiales más utilizados son el poliuretano (PUR o PIR) y la lana de roca, y cada uno tiene sus puntos fuertes." },
@@ -104,7 +104,7 @@
     "fecha": "2026-09-12",
     "minutos": 8,
     "imagen": "/panel_chapaperfilada.jpg",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": false,
     "contenido": [
       { "tipo": "p", "texto": "Montar una cubierta de panel sándwich es más sencillo de lo que parece, pero hay detalles que no se pueden pasar por alto. Estos son los pasos básicos que siguen los instaladores profesionales." },
@@ -129,7 +129,7 @@
     "fecha": "2026-08-25",
     "minutos": 4,
     "imagen": "/panel_fachada.webp",
-    "autor": "Equipo Repanel",
+    "autor": "Equipo RePanel",
     "destacado": false,
     "contenido": [
       { "tipo": "p", "texto": "La construcción es uno de los sectores que más residuos genera. Cada panel que se recupera en lugar de acabar en un vertedero es material que no hay que volver a fabricar, con todo el ahorro de energía y emisiones que eso supone." },

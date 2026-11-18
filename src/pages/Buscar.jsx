@@ -36,7 +36,7 @@ const Buscar = () => {
   return (
     <>
       <Helmet>
-        <title>{q ? `${t('Resultados para')} «${q}» | Repanel` : `${t('Buscar')} | Repanel`}</title>
+        <title>{q ? `${t('Resultados para')} «${q}» | RePanel` : `${t('Buscar')} | RePanel`}</title>
         <meta name="robots" content="noindex" />
       </Helmet>
 

@@ -31,7 +31,7 @@ const BloqueContenido = ({ bloque }) => {
         <div className="my-8 bg-[#FEFAE0] border-l-4 rounded-r-xl p-6 flex gap-4" style={{ borderColor: NARANJA }}>
           <FaLightbulb size={22} className="shrink-0 mt-1" style={{ color: NARANJA }} />
           <div>
-            <p className="font-bold text-gray-800 mb-1">{t('Consejo Repanel')}</p>
+            <p className="font-bold text-gray-800 mb-1">{t('Consejo RePanel')}</p>
             <p className="text-gray-700">{bloque.texto}</p>
           </div>
         </div>
@@ -70,7 +70,7 @@ const ArticuloBlog = () => {
   return (
     <>
       <Helmet>
-        <title>{`${articulo.titulo} | Repanel`}</title>
+        <title>{`${articulo.titulo} | RePanel`}</title>
         <meta name="description" content={articulo.resumen} />
         <link rel="canonical" href={`http://localhost:5173/blog/${articulo.slug}`} />
       </Helmet>

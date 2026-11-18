@@ -31,8 +31,8 @@ const Contacto = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Contacto | Repanel')}</title>
-        <meta name="description" content={t('Ponte en contacto con Repanel. Resolvemos tus dudas sobre paneles sandwich de segunda mano, presupuestos y disponibilidad.')} />
+        <title>{t('Contacto | RePanel')}</title>
+        <meta name="description" content={t('Ponte en contacto con RePanel. Resolvemos tus dudas sobre paneles sandwich de segunda mano, presupuestos y disponibilidad.')} />
         <meta name="keywords" content="contacto, paneles sandwich, segunda mano, fábrica de paneles, presupuesto paneles, atención al cliente, repanel" />
         <link rel="canonical" href="http://localhost:5173/contacto" />
       </Helmet>
@@ -76,7 +76,7 @@ const Contacto = () => {
             <div className="space-y-6">
               <div className="rounded-2xl overflow-hidden shadow-lg">
                 <iframe
-                  title={t('Mapa de ubicación de Repanel')}
+                  title={t('Mapa de ubicación de RePanel')}
                   src="https://www.google.com/maps?q=Sevilla&z=12&output=embed"
                   width="100%"
                   height="360"

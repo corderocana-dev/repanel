@@ -11,7 +11,7 @@ const InformacionLegal = () => {
     <>
       <Helmet>
         <title>{t('Información Legal | Aviso Legal, Política de Privacidad y Cookies')}</title>
-        <meta name="description" content={t('Lee toda la información legal de Repanel: aviso legal, política de privacidad, cookies y términos y condiciones de uso.')} />
+        <meta name="description" content={t('Lee toda la información legal de RePanel: aviso legal, política de privacidad, cookies y términos y condiciones de uso.')} />
         <meta name="keywords" content="información legal, aviso legal, política de privacidad, política de cookies, términos y condiciones, legal, repanel" />
         <link rel="canonical" href="http://localhost:5173/informaci%C3%B3nLegal" />
       </Helmet>
@@ -22,7 +22,7 @@ const InformacionLegal = () => {
         <div className="mb-8 p-5 rounded-lg border-l-4 border-[#BC6C25] bg-[#FEFAE0] text-gray-800">
           <p className="font-semibold mb-1">{t('Proyecto de portfolio')}</p>
           <p className="text-sm text-gray-700">
-            {t('Esta web es un proyecto de demostración. Repanel es una empresa ficticia y todos los datos de contacto, direcciones y textos legales son de ejemplo.')}
+            {t('Esta web es un proyecto de demostración. RePanel es una empresa ficticia y todos los datos de contacto, direcciones y textos legales son de ejemplo.')}
           </p>
         </div>
 
@@ -50,7 +50,7 @@ const InformacionLegal = () => {
 
           <h4 className='font-semibold pb-2'>2.2 ¿Por qué utilizamos cookies?</h4>
           <p className="text-gray-700 mb-4">
-            En Repanel, utilizamos cookies para mejorar tu experiencia de navegación en nuestro sitio web. Las cookies nos permiten ofrecerte una navegación personalizada, recordando tus preferencias y ayudándonos a analizar el uso del sitio para mejorar su rendimiento.</p>
+            En RePanel, utilizamos cookies para mejorar tu experiencia de navegación en nuestro sitio web. Las cookies nos permiten ofrecerte una navegación personalizada, recordando tus preferencias y ayudándonos a analizar el uso del sitio para mejorar su rendimiento.</p>
 
           <h4 className='font-semibold pb-2'>2.3 Tipos de cookies que utilizamos</h4>
           <div className="overflow-x-auto">
@@ -107,7 +107,7 @@ const InformacionLegal = () => {
           <h4 className='font-semibold pb-2'>2.7 Cambios en nuestra Política de Cookies
           </h4>
           <p className="text-gray-700 mb-4">
-            Repanel se reserva el derecho de modificar esta política en cualquier momento. En caso de realizar cambios importantes, informaremos a los usuarios a través de un aviso destacado en nuestro sitio web. Te recomendamos que revises periódicamente esta política para mantenerte informado sobre cómo utilizamos las cookies.</p>
+            RePanel se reserva el derecho de modificar esta política en cualquier momento. En caso de realizar cambios importantes, informaremos a los usuarios a través de un aviso destacado en nuestro sitio web. Te recomendamos que revises periódicamente esta política para mantenerte informado sobre cómo utilizamos las cookies.</p>
 
           <h4 className='font-semibold pb-2'>2.8 Contacta con nosotros
           </h4>

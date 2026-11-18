@@ -33,7 +33,7 @@ const Blog = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Blog | Repanel')}</title>
+        <title>{t('Blog | RePanel')}</title>
         <meta name="description" content={t('Guías, consejos y novedades sobre paneles sándwich: cómo elegirlos, instalarlos y ahorrar con panel de segunda mano.')} />
         <meta name="keywords" content="blog paneles sandwich, guía panel sandwich, instalar panel cubierta, panel segunda mano, repanel" />
         <link rel="canonical" href="http://localhost:5173/blog" />

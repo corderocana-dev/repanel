@@ -11,13 +11,13 @@ const Logo = ({ oscuro = false, compacto = false, frase = true, className = '' }
   const { t } = useTranslation();
 
   return (
-    <Link to="/" aria-label={`Repanel - ${t('Inicio')}`} className={`group flex items-center gap-3 shrink-0 ${className}`}>
+    <Link to="/" aria-label={`RePanel - ${t('Inicio')}`} className={`group flex items-center gap-3 shrink-0 ${className}`}>
       <span className={`shrink-0 flex items-center justify-center transition-all duration-300 ${oscuro ? 'bg-white rounded-full p-1.5 shadow-md' : ''} ${compacto ? 'w-11 h-11' : 'w-14 h-14'}`}>
         <img src="/logos/repanel-icono.svg" alt="" className="max-w-full max-h-full object-contain" />
       </span>
       <span className="leading-tight">
         <span className={`block font-extrabold tracking-tight transition-all duration-300 ${compacto ? 'text-lg' : 'text-xl'} ${oscuro ? 'text-white' : 'text-[#344e41]'}`}>
-          Repanel
+          RePanel
         </span>
         {frase && !compacto && (
           <span className={`hidden sm:block lg:hidden xl:block text-xs font-medium ${oscuro ? 'text-gray-300' : 'text-gray-500'}`}>

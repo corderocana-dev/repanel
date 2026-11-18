@@ -41,7 +41,7 @@ const ProductoDetalle = () => {
   return (
     <>
       <Helmet>
-        <title>{`${producto.nombre} | ${t(categoria.nombre)} | Repanel`}</title>
+        <title>{`${producto.nombre} | ${t(categoria.nombre)} | RePanel`}</title>
         <meta name="description" content={producto.descripcion} />
         <link rel="canonical" href={`http://localhost:5173/productos/${categoria.slug}/${producto.slug}`} />
       </Helmet>

@@ -36,7 +36,7 @@ const Productos = () => {
   return (
     <>
       <Helmet>
-        <title>{`${t(categoria.nombre)} | ${t('Paneles Sándwich Segunda Mano')} | Repanel`}</title>
+        <title>{`${t(categoria.nombre)} | ${t('Paneles Sándwich Segunda Mano')} | RePanel`}</title>
         <meta name="description" content={t(categoria.resumen)} />
         <meta name="keywords" content={`panel ${categoria.nombre.toLowerCase()}, panel sándwich segunda mano, ${productos.map((p) => p.nombre.toLowerCase()).join(', ')}, repanel`} />
         <link rel="canonical" href={`http://localhost:5173/productos/${categoria.slug}`} />

@@ -98,7 +98,7 @@ export default Productos;
 
 QUIENES SOMOS:
 
-🧩 Estructura recomendada para "Quiénes somos" de Repanel
+🧩 Estructura recomendada para "Quiénes somos" de RePanel
 1. Título claro y atractivo
 Ejemplo:
 
@@ -109,20 +109,20 @@ Ejemplo:
 “Reutilizamos materiales de calidad para tu proyecto”
 
 2. Breve introducción sobre la empresa
-Un párrafo que explique la misión de Repanel y cómo se diferencia de ProntoPanel. Resalta que vendéis paneles de segunda mano con pequeños defectos, pero aún en condiciones óptimas para ser reutilizados.
+Un párrafo que explique la misión de RePanel y cómo se diferencia de ProntoPanel. Resalta que vendéis paneles de segunda mano con pequeños defectos, pero aún en condiciones óptimas para ser reutilizados.
 
 📝 Ejemplo:
 
-En Repanel nos especializamos en la venta de paneles sándwich de segunda mano, que provienen de sobrantes, roturas o pequeños desperfectos. Nuestro objetivo es ofrecer soluciones económicas y sostenibles para proyectos de construcción sin comprometer la calidad del material. Con el respaldo de nuestra experiencia en ProntoPanel, garantizamos productos de alta durabilidad a precios muy competitivos.
+En RePanel nos especializamos en la venta de paneles sándwich de segunda mano, que provienen de sobrantes, roturas o pequeños desperfectos. Nuestro objetivo es ofrecer soluciones económicas y sostenibles para proyectos de construcción sin comprometer la calidad del material. Con el respaldo de nuestra experiencia en ProntoPanel, garantizamos productos de alta durabilidad a precios muy competitivos.
 
 3. Historia de la empresa
 Aquí puedes contar cómo surgió la idea de esta nueva empresa para gestionar paneles con defectos.
 
 📝 Ejemplo:
 
-Con más de 10 años en el sector de la venta y distribución de paneles sándwich a través de ProntoPanel, vimos una oportunidad para darle una segunda vida a los materiales que no podían ser vendidos como nuevos. Así nació Repanel, con la misión de ofrecer a nuestros clientes productos de alta calidad a precios accesibles, contribuyendo también a la sostenibilidad en la construcción.
+Con más de 10 años en el sector de la venta y distribución de paneles sándwich a través de ProntoPanel, vimos una oportunidad para darle una segunda vida a los materiales que no podían ser vendidos como nuevos. Así nació RePanel, con la misión de ofrecer a nuestros clientes productos de alta calidad a precios accesibles, contribuyendo también a la sostenibilidad en la construcción.
 
-4. Valores fundamentales de Repanel
+4. Valores fundamentales de RePanel
 Destaca los valores que guían la empresa, como el compromiso con la sostenibilidad, el ahorro para los clientes y la calidad garantizada.
 
 📝 Ejemplos:

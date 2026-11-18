@@ -55,7 +55,7 @@ const Presupuesto = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Pide Presupuesto | Repanel')}</title>
+        <title>{t('Pide Presupuesto | RePanel')}</title>
         <meta name="description" content={t('Solicita un presupuesto sin compromiso de paneles sándwich de segunda mano. Te respondemos en menos de 24 horas.')} />
         <meta name="keywords" content="presupuesto paneles sandwich, precio panel sandwich segunda mano, cotización paneles, repanel" />
         <link rel="canonical" href="http://localhost:5173/presupuesto" />

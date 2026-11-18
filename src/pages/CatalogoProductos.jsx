@@ -25,7 +25,7 @@ const Catalogo = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Catálogo de Paneles Sandwich | Repanel')}</title>
+        <title>{t('Catálogo de Paneles Sandwich | RePanel')}</title>
         <meta name="description" content={t('Explora todos los tipos de paneles sandwich de segunda mano disponibles. Alta calidad, sostenibilidad y ahorro garantizado.')} />
         <meta name="keywords" content="paneles sandwich, segunda mano, paneles de teja, paneles fachada, agropaneles, catálogo, repanel" />
         <link rel="canonical" href="http://localhost:5173/catalogo_productos" />

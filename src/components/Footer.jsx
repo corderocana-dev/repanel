@@ -111,7 +111,7 @@ const Footer = () => {
       <div className="bg-[#1e2e26] border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 lg:px-8 py-4 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-gray-300">
           <p className="text-center md:text-left">
-            © {ANIO_INICIO}–{anioActual} Repanel. {t('Todos los derechos reservados')}.
+            © {ANIO_INICIO}–{anioActual} RePanel. {t('Todos los derechos reservados')}.
             <span className="block md:inline md:ml-2 text-gray-400">· {t('Proyecto de portfolio: empresa y datos ficticios.')}</span>
           </p>
           <nav aria-label={t('INFORMACIÓN LEGAL')}>

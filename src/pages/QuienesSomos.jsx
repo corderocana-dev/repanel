@@ -47,10 +47,10 @@ const QuienesSomos = () => {
   return (
     <>
       <Helmet>
-        <title>{t('Quiénes Somos | Repanel')}</title>
+        <title>{t('Quiénes Somos | RePanel')}</title>
         <meta
           name="description"
-          content={t('Conoce más sobre Repanel, nuestra misión, visión y el equipo detrás de la venta de paneles sándwich de segunda mano.')}
+          content={t('Conoce más sobre RePanel, nuestra misión, visión y el equipo detrás de la venta de paneles sándwich de segunda mano.')}
         />
         <meta
           name="keywords"
@@ -63,7 +63,7 @@ const QuienesSomos = () => {
       <section className="relative bg-[url('/panel_cubierta.png')] bg-cover bg-center">
         <div className="absolute inset-0 bg-[#344e41]/70"></div>
         <div className="relative z-10 max-w-4xl mx-auto text-center text-white py-24 px-6">
-          <p className="uppercase tracking-widest text-sm font-semibold text-[#FEFAE0] mb-3">Repanel</p>
+          <p className="uppercase tracking-widest text-sm font-semibold text-[#FEFAE0] mb-3">RePanel</p>
           <h1 className="text-4xl md:text-5xl font-bold mb-4">{t('¿Quiénes somos?')}</h1>
           <p className="text-lg md:text-xl text-gray-100">
             {t('Damos una segunda vida a los paneles sándwich para que construyas más por menos.')}
@@ -93,14 +93,14 @@ const QuienesSomos = () => {
               {t('Con más de 15 años en el sector de la venta y distribución de paneles sándwich a través de una de nuestras empresas, vimos una oportunidad para darle una segunda vida a los materiales que no podían ser vendidos como nuevos.')}
             </p>
             <p className="text-lg text-gray-700 mb-4">
-              {t('Así nació')} <span className="font-bold">Repanel</span>{t(', especializada en paneles sándwich de segunda mano que provienen de sobrantes, roturas o pequeños desperfectos.')}
+              {t('Así nació')} <span className="font-bold">RePanel</span>{t(', especializada en paneles sándwich de segunda mano que provienen de sobrantes, roturas o pequeños desperfectos.')}
             </p>
             <p className="text-lg text-gray-700">
               {t('Nuestro objetivo es ofrecer soluciones económicas y sostenibles para proyectos de construcción, sin comprometer la calidad del material.')}
             </p>
           </div>
           <div className="relative">
-            <img src="/panel_lanaroca.jpg" alt={t('Paneles sándwich de Repanel')} className="rounded-2xl shadow-xl w-full h-80 lg:h-96 object-cover" />
+            <img src="/panel_lanaroca.jpg" alt={t('Paneles sándwich de RePanel')} className="rounded-2xl shadow-xl w-full h-80 lg:h-96 object-cover" />
             <div className="absolute -bottom-6 -left-4 md:-left-6 bg-white rounded-xl shadow-lg px-6 py-4 max-w-xs">
               <FaQuoteLeft style={{ color: NARANJA }} className="mb-2" />
               <p className="text-gray-800 font-semibold">{t('Calidad, honestidad y un trato cercano.')}</p>
@@ -141,7 +141,7 @@ const QuienesSomos = () => {
       <section id="nuestro-equipo" className="scroll-mt-20 bg-[#f8f7ef] py-16 px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center max-w-3xl mx-auto mb-10">
-            <h2 className="text-3xl font-bold text-gray-800 mb-4">{t('Equipo Repanel')}</h2>
+            <h2 className="text-3xl font-bold text-gray-800 mb-4">{t('Equipo RePanel')}</h2>
             <p className="text-lg text-gray-700">
               {t('Contamos con un equipo multidisciplinar con años de experiencia en la selección, revisión y distribución de paneles sándwich de segunda mano. Nos apasiona dar una segunda vida a cada material.')}
             </p>
