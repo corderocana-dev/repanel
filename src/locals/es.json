@@ -1,0 +1,12 @@
+{
+    "categorias": {
+      "panel_teja": "Panel Teja",
+      "fachada": "Fachada",
+      "agropanel": "Agropanel",
+      "cubierta": "Cubierta",
+      "lucernario": "Lucernario",
+      "frío_industrial": "Frío Industrial",
+      "lana_de_roca": "Lana de Roca",
+      "chapa_perfilada": "Chapa Perfilada"
+    }
+}

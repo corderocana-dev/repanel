@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Deja hueco para el menú fijo al saltar a una sección (#ancla) */
+html {
+  scroll-padding-top: 5rem;
+}

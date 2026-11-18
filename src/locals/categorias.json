@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "panel_teja",
+    "nombre": "Panel Teja",
+    "imagen": "/panel_teja.jpg",
+    "resumen": "Aspecto de tejado tradicional con el aislamiento de un panel sándwich.",
+    "descripcion": "El panel teja combina una cara exterior que imita la teja cerámica con un núcleo aislante de poliuretano. Consigue la estética de un tejado de toda la vida con una instalación mucho más rápida, ligera y económica.",
+    "aislamiento": "Poliuretano (PUR/PIR)",
+    "espesores": "30 - 80 mm",
+    "usos": ["Viviendas y casas de campo", "Porches y pérgolas", "Casetas y cocheras", "Rehabilitación de tejados"],
+    "ventajas": ["Estética de teja tradicional", "Muy ligero: no sobrecarga la estructura", "Montaje rápido y sin mortero"]
+  },
+  {
+    "slug": "fachada",
+    "nombre": "Fachada",
+    "imagen": "/panel_fachada.webp",
+    "resumen": "Cerramientos verticales resistentes con un acabado limpio y moderno.",
+    "descripcion": "Los paneles de fachada están pensados para cerramientos verticales de naves, edificios industriales y comerciales. Ofrecen buen aislamiento térmico y un acabado estético, con opciones de fijación vista u oculta.",
+    "aislamiento": "Poliuretano (PUR/PIR)",
+    "espesores": "40 - 100 mm",
+    "usos": ["Naves industriales", "Edificios comerciales y oficinas", "Almacenes y talleres", "Ampliaciones de edificios"],
+    "ventajas": ["Acabado limpio y moderno", "Opción de tornillo oculto", "Gran aislamiento térmico"]
+  },
+  {
+    "slug": "agropanel",
+    "nombre": "Agropanel",
+    "imagen": "/panel_agropanel.png",
+    "resumen": "Resistente a la humedad y a los ambientes agresivos de granjas y naves ganaderas.",
+    "descripcion": "El agropanel lleva una cara interior de poliéster o aluminio que resiste la humedad, el amoníaco y los ambientes corrosivos típicos de las explotaciones agrícolas y ganaderas. Es fácil de limpiar y muy duradero.",
+    "aislamiento": "Poliuretano (PUR/PIR)",
+    "espesores": "30 - 60 mm",
+    "usos": ["Naves ganaderas y granjas", "Explotaciones avícolas y porcinas", "Almacenes agrícolas", "Falsos techos en ambientes húmedos"],
+    "ventajas": ["Resiste ambientes corrosivos", "Superficie fácil de limpiar", "Alta durabilidad"]
+  },
+  {
+    "slug": "cubierta",
+    "nombre": "Cubierta",
+    "imagen": "/panel_cubierta.png",
+    "resumen": "El panel más versátil para tejados de naves, almacenes y porches.",
+    "descripcion": "El panel de cubierta es el más utilizado en construcción industrial. Sus grecas evacuan el agua de lluvia y aportan rigidez, mientras que el núcleo de poliuretano aísla la nave del frío y del calor.",
+    "aislamiento": "Poliuretano (PUR/PIR)",
+    "espesores": "30 - 100 mm",
+    "usos": ["Naves industriales y logísticas", "Almacenes y cobertizos", "Porches y marquesinas", "Garajes y talleres"],
+    "ventajas": ["Excelente evacuación del agua", "Gran rigidez con poco peso", "La opción más económica"]
+  },
+  {
+    "slug": "lucernario",
+    "nombre": "Lucernario",
+    "imagen": "/panel_lucernario.jpg",
+    "resumen": "Placas traslúcidas para meter luz natural en cubiertas y fachadas.",
+    "descripcion": "Los lucernarios son placas traslúcidas que se intercalan con los paneles sándwich para aprovechar la luz natural. Se fabrican con el mismo perfil que el panel al que acompañan, para que encajen sin problemas.",
+    "aislamiento": "Policarbonato / poliéster traslúcido",
+    "espesores": "Según el perfil",
+    "usos": ["Naves con iluminación natural", "Invernaderos y viveros", "Pasillos y zonas de trabajo", "Porches y marquesinas"],
+    "ventajas": ["Ahorro en iluminación artificial", "Compatible con cada perfil de panel", "Ligero y resistente al impacto"]
+  },
+  {
+    "slug": "frío_industrial",
+    "nombre": "Frío Industrial",
+    "imagen": "/panel_frioI.jpg",
+    "resumen": "Paneles de gran espesor para cámaras frigoríficas y de congelación.",
+    "descripcion": "Los paneles de frío industrial tienen grandes espesores y uniones herméticas para mantener la temperatura con el menor consumo posible. Son la base de cámaras frigoríficas, salas de despiece y almacenes refrigerados.",
+    "aislamiento": "Poliuretano (PUR/PIR)",
+    "espesores": "60 - 200 mm",
+    "usos": ["Cámaras frigoríficas", "Cámaras de congelación", "Salas blancas y de despiece", "Casetas y módulos prefabricados"],
+    "ventajas": ["Uniones herméticas", "Grandes espesores de aislamiento", "Acabado higiénico y lavable"]
+  },
+  {
+    "slug": "lana_de_roca",
+    "nombre": "Lana de Roca",
+    "imagen": "/panel_lanaroca.jpg",
+    "resumen": "Máxima resistencia al fuego y un excelente aislamiento acústico.",
+    "descripcion": "El panel de lana de roca tiene un núcleo incombustible que lo convierte en la opción ideal cuando la normativa exige resistencia al fuego. Además, amortigua el ruido como ningún otro panel.",
+    "aislamiento": "Lana de roca",
+    "espesores": "50 - 150 mm",
+    "usos": ["Sectorización contra incendios", "Industrias con riesgo de incendio", "Salas de máquinas y zonas ruidosas", "Edificios con normativa exigente"],
+    "ventajas": ["Núcleo incombustible", "Gran aislamiento acústico", "Cumple normativas exigentes"]
+  },
+  {
+    "slug": "chapa_perfilada",
+    "nombre": "Chapa Perfilada",
+    "imagen": "/panel_chapaperfilada.jpg",
+    "resumen": "Chapa de acero sin aislamiento: la solución más económica para cubrir.",
+    "descripcion": "La chapa perfilada es una lámina de acero galvanizado o prelacado con distintos perfiles. Al no llevar aislamiento es la opción más ligera y barata, perfecta para cubrir espacios donde no se necesita controlar la temperatura.",
+    "aislamiento": "Sin aislamiento",
+    "espesores": "0,5 - 0,8 mm de chapa",
+    "usos": ["Cobertizos y almacenes abiertos", "Vallados y cerramientos", "Cubiertas sin aislamiento", "Revestimiento de fachadas"],
+    "ventajas": ["La opción más económica", "Muy ligera y fácil de montar", "Varios perfiles y colores"]
+  }
+]

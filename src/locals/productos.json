@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1, "slug": "teja-rojo", "nombre": "Teja Rojo", "categoria": "panel_teja",
+    "descripcion": "Panel sándwich con acabado imitación teja en el clásico color rojo cerámico. Es el más demandado para viviendas y casas de campo.",
+    "espesores": ["30 mm", "40 mm", "50 mm"],
+    "colores": ["Rojo teja"],
+    "aplicaciones": ["Viviendas", "Casas de campo", "Porches"],
+    "caracteristicas": ["Cara exterior imitación teja", "Cara interior lacada en blanco", "Núcleo de poliuretano"]
+  },
+  {
+    "id": 2, "slug": "teja-albero", "nombre": "Teja Albero", "categoria": "panel_teja",
+    "descripcion": "Imitación teja en tono albero, muy habitual en Andalucía. Se integra perfectamente en entornos rurales y construcciones tradicionales.",
+    "espesores": ["30 mm", "40 mm", "50 mm"],
+    "colores": ["Albero"],
+    "aplicaciones": ["Cortijos", "Viviendas rurales", "Pérgolas"],
+    "caracteristicas": ["Cara exterior imitación teja", "Tono tradicional andaluz", "Núcleo de poliuretano"]
+  },
+  {
+    "id": 3, "slug": "teja-pizarra", "nombre": "Teja Pizarra", "categoria": "panel_teja",
+    "descripcion": "Acabado imitación teja en gris pizarra, para quienes buscan un aspecto más moderno sin renunciar a la forma tradicional.",
+    "espesores": ["30 mm", "40 mm", "50 mm"],
+    "colores": ["Gris pizarra"],
+    "aplicaciones": ["Viviendas modernas", "Casetas", "Cocheras"],
+    "caracteristicas": ["Cara exterior imitación teja", "Color moderno y sobrio", "Núcleo de poliuretano"]
+  },
+
+  {
+    "id": 4, "slug": "fachada-tornillo-oculto", "nombre": "Fachada Tornillo Oculto", "categoria": "fachada",
+    "descripcion": "La fijación queda escondida en la junta del panel, por lo que la fachada se ve totalmente limpia. Es la opción más estética para cerramientos.",
+    "espesores": ["40 mm", "50 mm", "60 mm", "80 mm"],
+    "colores": ["Blanco", "Gris plata", "Gris antracita"],
+    "aplicaciones": ["Edificios comerciales", "Oficinas", "Naves con imagen cuidada"],
+    "caracteristicas": ["Fijación oculta", "Acabado liso o microperfilado", "Junta machihembrada"]
+  },
+  {
+    "id": 5, "slug": "fachada-tornillo-visto", "nombre": "Fachada Tornillo Visto", "categoria": "fachada",
+    "descripcion": "Panel de fachada con fijación vista, más rápido de montar y más económico. Ideal para naves y almacenes donde prima la funcionalidad.",
+    "espesores": ["30 mm", "40 mm", "50 mm", "60 mm"],
+    "colores": ["Blanco", "Gris plata", "Verde"],
+    "aplicaciones": ["Naves industriales", "Almacenes", "Talleres"],
+    "caracteristicas": ["Fijación vista", "Montaje rápido", "Precio muy competitivo"]
+  },
+  {
+    "id": 6, "slug": "panel-arquitectonico", "nombre": "Panel Arquitectónico", "categoria": "fachada",
+    "descripcion": "Panel de fachada de alta gama con superficie lisa y juntas muy finas. Pensado para proyectos donde el diseño de la fachada es protagonista.",
+    "espesores": ["60 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco", "Gris plata", "Gris antracita"],
+    "aplicaciones": ["Edificios singulares", "Concesionarios y tiendas", "Oficinas"],
+    "caracteristicas": ["Superficie lisa", "Juntas finas y discretas", "Instalación horizontal o vertical"]
+  },
+
+  {
+    "id": 7, "slug": "falso-techo-poliester", "nombre": "Falso Techo Poliéster", "categoria": "agropanel",
+    "descripcion": "Panel para falsos techos con la cara interior de poliéster reforzado, que no se oxida con la humedad ni con el amoníaco de las naves ganaderas.",
+    "espesores": ["30 mm", "40 mm", "50 mm"],
+    "colores": ["Blanco"],
+    "aplicaciones": ["Granjas avícolas", "Naves porcinas", "Establos"],
+    "caracteristicas": ["Cara interior de poliéster", "No se oxida", "Fácil de limpiar"]
+  },
+  {
+    "id": 8, "slug": "falso-techo-aluminio", "nombre": "Falso Techo Aluminio", "categoria": "agropanel",
+    "descripcion": "Falso techo con cara interior de aluminio, ligero y muy resistente a la corrosión. Refleja la luz y mejora la luminosidad de la nave.",
+    "espesores": ["30 mm", "40 mm"],
+    "colores": ["Aluminio natural"],
+    "aplicaciones": ["Explotaciones ganaderas", "Almacenes agrícolas", "Ambientes húmedos"],
+    "caracteristicas": ["Cara interior de aluminio", "Resistente a la corrosión", "Refleja la luz"]
+  },
+  {
+    "id": 9, "slug": "cubierta-3-grecas-poliester", "nombre": "Cubierta 3 Grecas Poliéster", "categoria": "agropanel",
+    "descripcion": "Panel de cubierta de 3 grecas con la cara interior de poliéster. Aguanta los ambientes agresivos de las granjas sin perder sus propiedades.",
+    "espesores": ["30 mm", "40 mm", "50 mm", "60 mm"],
+    "colores": ["Rojo teja", "Verde", "Blanco"],
+    "aplicaciones": ["Naves ganaderas", "Granjas", "Almacenes de pienso"],
+    "caracteristicas": ["Perfil de 3 grecas", "Cara interior de poliéster", "Alta durabilidad"]
+  },
+
+  {
+    "id": 10, "slug": "panel-tapajuntas", "nombre": "Panel Tapajuntas", "categoria": "cubierta",
+    "descripcion": "Panel de cubierta con tapajuntas que cubre la fijación. La tornillería queda protegida de la intemperie y mejora mucho la estanqueidad.",
+    "espesores": ["30 mm", "40 mm", "50 mm", "60 mm", "80 mm"],
+    "colores": ["Blanco", "Rojo teja", "Gris plata"],
+    "aplicaciones": ["Cubiertas con poca pendiente", "Naves industriales", "Zonas lluviosas"],
+    "caracteristicas": ["Tornillería protegida", "Máxima estanqueidad", "Apto para poca pendiente"]
+  },
+  {
+    "id": 11, "slug": "panel-3-grecas", "nombre": "Panel 3 Grecas", "categoria": "cubierta",
+    "descripcion": "El panel de cubierta más popular. Sus 3 grecas altas evacuan muy bien el agua y le dan gran rigidez, permitiendo distancias amplias entre correas.",
+    "espesores": ["30 mm", "40 mm", "50 mm", "60 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco", "Rojo teja", "Verde", "Gris plata"],
+    "aplicaciones": ["Naves industriales", "Almacenes", "Porches y cocheras"],
+    "caracteristicas": ["3 grecas altas", "Gran rigidez", "El más versátil"]
+  },
+  {
+    "id": 12, "slug": "panel-5-grecas", "nombre": "Panel 5 Grecas", "categoria": "cubierta",
+    "descripcion": "Panel de cubierta con 5 grecas de menor altura. Ofrece un aspecto más uniforme y es ideal cuando también se quiere usar en fachada.",
+    "espesores": ["30 mm", "40 mm", "50 mm", "60 mm"],
+    "colores": ["Blanco", "Rojo teja", "Gris plata"],
+    "aplicaciones": ["Cubiertas y fachadas", "Naves pequeñas", "Casetas"],
+    "caracteristicas": ["5 grecas", "Aspecto uniforme", "Uso en cubierta y fachada"]
+  },
+
+  {
+    "id": 13, "slug": "lucernario-cubierta-tapajuntas", "nombre": "Lucernario Cubierta Tapajuntas", "categoria": "lucernario",
+    "descripcion": "Placa traslúcida con el mismo perfil que el panel de cubierta tapajuntas, para intercalarla en la cubierta y ganar luz natural.",
+    "espesores": ["Perfil tapajuntas"],
+    "colores": ["Traslúcido", "Opal"],
+    "aplicaciones": ["Cubiertas tapajuntas", "Naves industriales"],
+    "caracteristicas": ["Encaja con panel tapajuntas", "Paso de luz natural", "Protección UV"]
+  },
+  {
+    "id": 14, "slug": "lucernario-cubierta-tornillo-visto", "nombre": "Lucernario Cubierta Tornillo Visto", "categoria": "lucernario",
+    "descripcion": "Lucernario para cubiertas de tornillo visto de 3 o 5 grecas. Se solapa con los paneles igual que una pieza más.",
+    "espesores": ["Perfil 3 grecas", "Perfil 5 grecas"],
+    "colores": ["Traslúcido", "Opal"],
+    "aplicaciones": ["Cubiertas de 3 y 5 grecas", "Almacenes"],
+    "caracteristicas": ["Compatible con 3 y 5 grecas", "Paso de luz natural", "Protección UV"]
+  },
+  {
+    "id": 15, "slug": "lucernario-fachada-tornillo-oculto", "nombre": "Lucernario Fachada Tornillo Oculto", "categoria": "lucernario",
+    "descripcion": "Panel traslúcido para fachadas de tornillo oculto. Crea franjas de luz en el cerramiento sin romper la estética de la fachada.",
+    "espesores": ["Perfil fachada oculto"],
+    "colores": ["Traslúcido", "Opal"],
+    "aplicaciones": ["Fachadas de naves", "Edificios comerciales"],
+    "caracteristicas": ["Encaja con fachada oculta", "Franjas de luz en fachada", "Protección UV"]
+  },
+  {
+    "id": 16, "slug": "lucernario-modular-plano", "nombre": "Lucernario Modular Plano", "categoria": "lucernario",
+    "descripcion": "Placa plana de policarbonato celular, ligera y aislante. Muy utilizada en marquesinas, invernaderos y cerramientos.",
+    "espesores": ["10 mm", "16 mm", "20 mm"],
+    "colores": ["Traslúcido", "Opal", "Bronce"],
+    "aplicaciones": ["Marquesinas", "Invernaderos", "Pérgolas"],
+    "caracteristicas": ["Policarbonato celular", "Ligero y aislante", "Resistente al impacto"]
+  },
+  {
+    "id": 17, "slug": "lucernario-corrugado", "nombre": "Lucernario Corrugado", "categoria": "lucernario",
+    "descripcion": "Placa traslúcida de perfil ondulado, compatible con chapa minionda y fibrocemento. Una forma económica de meter luz en cubiertas sencillas.",
+    "espesores": ["Perfil ondulado"],
+    "colores": ["Traslúcido"],
+    "aplicaciones": ["Cubiertas de chapa ondulada", "Cobertizos", "Invernaderos"],
+    "caracteristicas": ["Perfil ondulado", "Muy económico", "Fácil de instalar"]
+  },
+
+  {
+    "id": 18, "slug": "panel-congelacion", "nombre": "Panel Congelación", "categoria": "frío_industrial",
+    "descripcion": "Panel de gran espesor para cámaras que trabajan a temperaturas bajo cero. Su unión hermética evita puentes térmicos y condensaciones.",
+    "espesores": ["120 mm", "150 mm", "200 mm"],
+    "colores": ["Blanco"],
+    "aplicaciones": ["Cámaras de congelación", "Túneles de frío", "Almacenes de congelados"],
+    "caracteristicas": ["Para temperaturas bajo cero", "Unión hermética", "Acabado sanitario"]
+  },
+  {
+    "id": 19, "slug": "panel-casetero", "nombre": "Panel Casetero", "categoria": "frío_industrial",
+    "descripcion": "Panel machihembrado con caras lisas por ambos lados, perfecto para casetas, módulos prefabricados y tabiquería interior.",
+    "espesores": ["40 mm", "50 mm", "60 mm"],
+    "colores": ["Blanco"],
+    "aplicaciones": ["Casetas de obra", "Módulos prefabricados", "Tabiques interiores"],
+    "caracteristicas": ["Caras lisas", "Machihembrado", "Montaje muy sencillo"]
+  },
+  {
+    "id": 20, "slug": "panel-frigorifico", "nombre": "Panel Frigorífico", "categoria": "frío_industrial",
+    "descripcion": "Panel para cámaras de refrigeración entre 0 °C y 5 °C. Acabado sanitario fácil de limpiar, apto para la industria alimentaria.",
+    "espesores": ["60 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco"],
+    "aplicaciones": ["Cámaras frigoríficas", "Salas de despiece", "Obradores"],
+    "caracteristicas": ["Refrigeración positiva", "Acabado sanitario", "Unión machihembrada"]
+  },
+
+  {
+    "id": 21, "slug": "cubierta-ignifugo", "nombre": "Cubierta Ignífugo", "categoria": "lana_de_roca",
+    "descripcion": "Panel de cubierta con núcleo de lana de roca incombustible. Frena la propagación del fuego y protege la estructura de la nave.",
+    "espesores": ["50 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco", "Gris plata"],
+    "aplicaciones": ["Industrias con riesgo de incendio", "Almacenes de materiales combustibles"],
+    "caracteristicas": ["Núcleo incombustible", "Resistencia al fuego", "Perfil de cubierta"]
+  },
+  {
+    "id": 22, "slug": "fachada-ignifugo", "nombre": "Fachada Ignífugo", "categoria": "lana_de_roca",
+    "descripcion": "Panel de fachada de lana de roca para cerramientos y muros cortafuegos. Ayuda a sectorizar la nave y cumplir la normativa contra incendios.",
+    "espesores": ["50 mm", "80 mm", "100 mm", "150 mm"],
+    "colores": ["Blanco", "Gris plata"],
+    "aplicaciones": ["Muros cortafuegos", "Sectorización", "Fachadas industriales"],
+    "caracteristicas": ["Núcleo incombustible", "Ideal para sectorizar", "Fijación oculta"]
+  },
+  {
+    "id": 23, "slug": "cubierta-acustico", "nombre": "Cubierta Acústico", "categoria": "lana_de_roca",
+    "descripcion": "Panel de cubierta de lana de roca con cara interior microperforada que absorbe el ruido. Reduce mucho la reverberación dentro de la nave.",
+    "espesores": ["50 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco"],
+    "aplicaciones": ["Naves con maquinaria", "Polideportivos", "Salas de eventos"],
+    "caracteristicas": ["Cara interior microperforada", "Absorción acústica", "Núcleo incombustible"]
+  },
+  {
+    "id": 24, "slug": "fachada-acustico", "nombre": "Fachada Acústico", "categoria": "lana_de_roca",
+    "descripcion": "Panel de fachada acústico para aislar del ruido exterior o evitar que el ruido de la actividad salga de la nave.",
+    "espesores": ["50 mm", "80 mm", "100 mm"],
+    "colores": ["Blanco", "Gris plata"],
+    "aplicaciones": ["Salas de máquinas", "Industrias ruidosas", "Edificios junto a carreteras"],
+    "caracteristicas": ["Aislamiento acústico", "Cara microperforada", "Núcleo incombustible"]
+  },
+
+  {
+    "id": 25, "slug": "chapa-grecada", "nombre": "Grecada", "categoria": "chapa_perfilada",
+    "descripcion": "Chapa de acero con perfil grecado, la más usada para cubiertas y fachadas sin aislamiento. Resistente, ligera y muy económica.",
+    "espesores": ["0,5 mm", "0,6 mm", "0,7 mm"],
+    "colores": ["Galvanizado", "Blanco", "Rojo teja", "Verde"],
+    "aplicaciones": ["Cobertizos", "Naves sin aislamiento", "Revestimientos"],
+    "caracteristicas": ["Acero galvanizado o prelacado", "Perfil grecado", "Muy ligera"]
+  },
+  {
+    "id": 26, "slug": "chapa-minionda", "nombre": "Minionda", "categoria": "chapa_perfilada",
+    "descripcion": "Chapa de perfil ondulado pequeño, con un aspecto clásico. Muy utilizada en cerramientos, vallados y revestimientos decorativos.",
+    "espesores": ["0,5 mm", "0,6 mm"],
+    "colores": ["Galvanizado", "Blanco", "Gris antracita"],
+    "aplicaciones": ["Vallados", "Revestimientos", "Cubiertas sencillas"],
+    "caracteristicas": ["Perfil ondulado", "Aspecto clásico", "Fácil de cortar y curvar"]
+  },
+  {
+    "id": 27, "slug": "chapa-teja", "nombre": "Teja", "categoria": "chapa_perfilada",
+    "descripcion": "Chapa con forma de teja, sin aislamiento. Da el aspecto de un tejado tradicional al precio de una chapa.",
+    "espesores": ["0,5 mm", "0,6 mm"],
+    "colores": ["Rojo teja", "Albero"],
+    "aplicaciones": ["Porches", "Casetas", "Cubiertas sin aislamiento"],
+    "caracteristicas": ["Imitación teja", "Sin aislamiento", "Muy económica"]
+  }
+]

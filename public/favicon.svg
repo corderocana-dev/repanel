@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Repanel">
+  <!-- Panel sándwich visto de lado: chapa superior, núcleo aislante y chapa inferior -->
+  <rect x="6" y="20" width="44" height="9" rx="2.5" fill="#344e41"/>
+  <rect x="6" y="30" width="44" height="12" rx="1.5" fill="#BC6C25"/>
+  <path d="M14 33v6M22 33v6M30 33v6M38 33v6" stroke="#FEFAE0" stroke-opacity=".45" stroke-width="1.6" stroke-linecap="round"/>
+  <rect x="6" y="43" width="44" height="9" rx="2.5" fill="#588157"/>
+  <!-- Hoja: segunda vida y sostenibilidad -->
+  <path d="M41 25C41 13 50 7 60 7c0 11-6 19-17 19-.8 0-1.4-.4-2-1z" fill="#7BAE5B"/>
+  <path d="M43 24c3-5 7-9 13-13" stroke="#344e41" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+</svg>

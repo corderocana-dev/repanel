@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "como-elegir-panel-sandwich",
+    "titulo": "Cómo elegir el panel sándwich adecuado para tu proyecto",
+    "resumen": "Cubierta, fachada, frío industrial... Te explicamos qué tipo de panel conviene en cada caso y en qué fijarte antes de comprar.",
+    "categoria": "Guías",
+    "fecha": "2026-11-10",
+    "minutos": 6,
+    "imagen": "/panel_cubierta.png",
+    "autor": "Equipo Repanel",
+    "destacado": true,
+    "contenido": [
+      { "tipo": "p", "texto": "Elegir bien el panel sándwich es la diferencia entre una obra que funciona durante décadas y una que da problemas al primer invierno. La buena noticia es que no hace falta ser ingeniero: basta con tener claras tres cosas antes de pedir presupuesto." },
+      { "tipo": "h2", "texto": "1. ¿Dónde lo vas a colocar?" },
+      { "tipo": "p", "texto": "No es lo mismo un tejado que una pared. Los paneles de cubierta llevan grecas más altas para evacuar el agua de lluvia, mientras que los de fachada tienen una cara más lisa y una fijación oculta que mejora la estética." },
+      { "tipo": "lista", "items": [
+        "Cubierta: naves, almacenes y porches. Busca grecas marcadas y buen solape lateral.",
+        "Fachada: cerramientos verticales con acabado limpio.",
+        "Panel teja: viviendas y casetas donde quieres el aspecto de un tejado tradicional.",
+        "Frío industrial: cámaras frigoríficas y salas blancas, con espesores mayores."
+      ] },
+      { "tipo": "h2", "texto": "2. ¿Qué aislamiento necesitas?" },
+      { "tipo": "p", "texto": "El núcleo del panel marca su comportamiento. El poliuretano (PUR/PIR) aísla mucho con poco espesor, y la lana de roca destaca por su resistencia al fuego y su aislamiento acústico. Si el edificio tiene requisitos de protección contra incendios, la lana de roca suele ser la opción." },
+      { "tipo": "h2", "texto": "3. ¿Qué espesor?" },
+      { "tipo": "p", "texto": "A más espesor, más aislamiento. Para un almacén sin climatizar pueden bastar 30 o 40 mm; para una nave con personas trabajando dentro es habitual ir a 50 o 60 mm, y para frío industrial se trabaja con 80 mm o más." },
+      { "tipo": "consejo", "texto": "Si dudas entre dos espesores, consúltanos con las medidas de la obra. En panel de segunda mano a veces el espesor superior cuesta casi lo mismo que el inferior." }
+    ]
+  },
+  {
+    "slug": "panel-nuevo-vs-segunda-mano",
+    "titulo": "Panel sándwich nuevo o de segunda mano: ¿cuándo compensa?",
+    "resumen": "Analizamos en qué obras merece la pena apostar por panel recuperado y en cuáles es mejor ir a panel nuevo.",
+    "categoria": "Ahorro",
+    "fecha": "2026-10-28",
+    "minutos": 5,
+    "imagen": "/panel_teja.jpg",
+    "autor": "Equipo Repanel",
+    "destacado": false,
+    "contenido": [
+      { "tipo": "p", "texto": "El panel de segunda mano procede de sobrantes de obra, roturas de stock o pequeños desperfectos de fábrica. Funcionalmente aísla igual, pero su precio es mucho menor. ¿Significa eso que siempre es la mejor opción? No siempre, y te contamos por qué." },
+      { "tipo": "h2", "texto": "Cuándo compensa el panel de segunda mano" },
+      { "tipo": "lista", "items": [
+        "Naves agrícolas, almacenes y cobertizos donde la estética es secundaria.",
+        "Ampliaciones y reparaciones de cubiertas existentes.",
+        "Casetas de obra, trasteros y garajes.",
+        "Proyectos con presupuesto ajustado en los que el aislamiento es la prioridad."
+      ] },
+      { "tipo": "h2", "texto": "Cuándo es mejor el panel nuevo" },
+      { "tipo": "p", "texto": "Si necesitas una gran cantidad de un mismo color y espesor, o la obra exige certificados concretos del fabricante, el panel nuevo puede encajar mejor. Aun así, merece la pena preguntar: muchas veces tenemos lotes grandes homogéneos." },
+      { "tipo": "consejo", "texto": "Los arañazos superficiales no afectan al aislamiento ni a la estanqueidad. Lo importante es que las juntas y la chapa estén en buen estado, y eso es justo lo que revisamos antes de vender cada panel." }
+    ]
+  },
+  {
+    "slug": "paneles-camaras-frigorificas",
+    "titulo": "Paneles para cámaras frigoríficas: todo lo que debes saber",
+    "resumen": "Espesores recomendados, tipos de unión y errores frecuentes al montar una cámara de refrigeración o congelación.",
+    "categoria": "Frío industrial",
+    "fecha": "2026-10-15",
+    "minutos": 7,
+    "imagen": "/panel_frioI.jpg",
+    "autor": "Equipo Repanel",
+    "destacado": false,
+    "contenido": [
+      { "tipo": "p", "texto": "Una cámara frigorífica vive o muere por su aislamiento. Cualquier fuga de frío se traduce en un compresor trabajando de más y en una factura eléctrica más alta. Por eso el panel de frío industrial es distinto al de una nave convencional." },
+      { "tipo": "h2", "texto": "Espesor según la temperatura" },
+      { "tipo": "lista", "items": [
+        "Refrigeración (0 °C a 5 °C): entre 60 y 100 mm suele ser suficiente.",
+        "Congelación (-18 °C a -25 °C): lo habitual es trabajar con 120 mm o más.",
+        "Salas de trabajo climatizadas: a partir de 60 mm."
+      ] },
+      { "tipo": "h2", "texto": "La unión importa tanto como el panel" },
+      { "tipo": "p", "texto": "Los paneles de frío suelen llevar junta machihembrada o sistema de cierre con excéntricas, que asegura una unión hermética. Al montar, sella bien las juntas y cuida los encuentros con suelo y techo: son los puntos por donde más frío se pierde." },
+      { "tipo": "consejo", "texto": "Aprovecha el panel de segunda mano para cámaras pequeñas o de uso agrícola: es donde más se nota el ahorro sin renunciar a buen aislamiento." }
+    ]
+  },
+  {
+    "slug": "lana-de-roca-vs-poliuretano",
+    "titulo": "Lana de roca o poliuretano: diferencias en aislamiento y fuego",
+    "resumen": "Comparamos los dos núcleos más habituales del panel sándwich para que sepas cuál encaja con tu obra.",
+    "categoria": "Técnico",
+    "fecha": "2026-09-30",
+    "minutos": 6,
+    "imagen": "/panel_lanaroca.jpg",
+    "autor": "Equipo Repanel",
+    "destacado": false,
+    "contenido": [
+      { "tipo": "p", "texto": "El aislamiento interior es lo que convierte dos chapas en un panel sándwich. Los dos materiales más utilizados son el poliuretano (PUR o PIR) y la lana de roca, y cada uno tiene sus puntos fuertes." },
+      { "tipo": "h2", "texto": "Poliuretano: máximo aislamiento con poco espesor" },
+      { "tipo": "p", "texto": "Es ligero, fácil de manipular y ofrece un aislamiento térmico excelente. Por eso es el más común en cubiertas, fachadas y cámaras frigoríficas. La versión PIR mejora su comportamiento frente al fuego respecto al PUR tradicional." },
+      { "tipo": "h2", "texto": "Lana de roca: seguridad frente al fuego y silencio" },
+      { "tipo": "p", "texto": "Es un material incombustible, así que se usa mucho en sectorizaciones, industrias con riesgo de incendio y edificios con normativa exigente. Además amortigua muy bien el ruido. A cambio, pesa más y necesita algo más de espesor para aislar lo mismo." },
+      { "tipo": "lista", "items": [
+        "¿Prioridad aislamiento térmico y precio? Poliuretano.",
+        "¿Prioridad resistencia al fuego o acústica? Lana de roca.",
+        "¿Dudas con la normativa? Consulta con tu técnico antes de comprar."
+      ] }
+    ]
+  },
+  {
+    "slug": "instalar-panel-cubierta",
+    "titulo": "Cómo instalar panel de cubierta paso a paso",
+    "resumen": "Pendiente mínima, solapes, tornillería y remates: los puntos clave para que tu tejado no tenga goteras.",
+    "categoria": "Instalación",
+    "fecha": "2026-09-12",
+    "minutos": 8,
+    "imagen": "/panel_chapaperfilada.jpg",
+    "autor": "Equipo Repanel",
+    "destacado": false,
+    "contenido": [
+      { "tipo": "p", "texto": "Montar una cubierta de panel sándwich es más sencillo de lo que parece, pero hay detalles que no se pueden pasar por alto. Estos son los pasos básicos que siguen los instaladores profesionales." },
+      { "tipo": "h2", "texto": "Antes de empezar" },
+      { "tipo": "lista", "items": [
+        "Comprueba que la estructura (correas) está nivelada y a la distancia adecuada.",
+        "Respeta la pendiente mínima que indique el fabricante del panel, normalmente en torno al 5-7 %.",
+        "Empieza a colocar en el sentido contrario a los vientos dominantes."
+      ] },
+      { "tipo": "h2", "texto": "Colocación y fijación" },
+      { "tipo": "p", "texto": "Coloca el primer panel bien escuadrado: si sale torcido, toda la cubierta saldrá torcida. Fija cada panel en las grecas con tornillos autotaladrantes con arandela de estanqueidad, sin apretar en exceso para no deformar la chapa." },
+      { "tipo": "h2", "texto": "Remates" },
+      { "tipo": "p", "texto": "La cumbrera, los laterales y los canalones son los puntos donde aparecen las goteras. Usa remates de chapa del mismo color y sella con cinta o masilla específica." },
+      { "tipo": "consejo", "texto": "Retira el film protector de la chapa justo después de montar. Si se queda al sol durante semanas, luego cuesta mucho quitarlo." }
+    ]
+  },
+  {
+    "slug": "economia-circular-construccion",
+    "titulo": "Economía circular en la construcción: dar una segunda vida al panel",
+    "resumen": "Reutilizar materiales reduce residuos y emisiones. Así contribuye el panel sándwich recuperado a una obra más sostenible.",
+    "categoria": "Sostenibilidad",
+    "fecha": "2026-08-25",
+    "minutos": 4,
+    "imagen": "/panel_fachada.webp",
+    "autor": "Equipo Repanel",
+    "destacado": false,
+    "contenido": [
+      { "tipo": "p", "texto": "La construcción es uno de los sectores que más residuos genera. Cada panel que se recupera en lugar de acabar en un vertedero es material que no hay que volver a fabricar, con todo el ahorro de energía y emisiones que eso supone." },
+      { "tipo": "h2", "texto": "Qué significa reutilizar un panel" },
+      { "tipo": "p", "texto": "Los paneles que vendemos proceden de sobrantes de obra, excedentes de stock y piezas con pequeños defectos estéticos. Se revisan, se clasifican y vuelven al mercado para cumplir exactamente la misma función para la que fueron fabricados." },
+      { "tipo": "lista", "items": [
+        "Menos residuos en vertedero.",
+        "Menos materia prima y energía consumida.",
+        "Un precio más accesible para el cliente."
+      ] },
+      { "tipo": "consejo", "texto": "Si tienes paneles sobrantes de una obra, también nos interesan. Contacta con nosotros y te informamos." }
+    ]
+  }
+]
