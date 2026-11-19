@@ -8,7 +8,9 @@
 
 Web corporativa para **RePanel**, una empresa de venta de paneles sándwich de segunda mano en Sevilla. Incluye catálogo de productos por categorías, fichas de producto, buscador, blog, formulario de presupuesto y versión bilingüe español / inglés.
 
-> 💡 **Proyecto de demostración:** RePanel es una empresa ficticia. Los datos de contacto, direcciones y textos legales son de ejemplo.
+> 🎓 **Proyecto de prácticas** del ciclo de **Desarrollo de Aplicaciones Web (DAW)**, desarrollado durante mi periodo de prácticas en empresa.
+>
+> 💡 Para este portfolio, la marca se ha sustituido por **RePanel**, una empresa ficticia. Los datos de contacto, direcciones y textos legales son de ejemplo.
 
 
 <!-- 🔗 **Demo:** https://repanel.vercel.app -->
